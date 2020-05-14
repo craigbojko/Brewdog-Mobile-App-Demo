@@ -1,0 +1,23 @@
+{
+  "tslint.enable": false,
+  "standard.enable": true,
+  "psi-header.changes-tracking": {
+    "autoHeader": "off",
+    "enforceHeader": false
+  },
+  "psi-header.variables": [
+    [
+      "company",
+      "Pixel Ventures Ltd."
+    ],
+    [
+      "author",
+      "Craig Bojko"
+    ],
+    [
+      "authoremail",
+      "craig@pixelventures.co.uk"
+    ]
+  ],
+  "python.pythonPath": "/usr/local/bin/python3"
+}

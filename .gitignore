@@ -7,6 +7,11 @@
 
 # testing
 /coverage
+/test/cypress/videos
+/cypress-coverage
+/jest-coverage
+/reports
+.nyc_output
 
 # production
 /build
@@ -21,3 +26,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.idea

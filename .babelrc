@@ -1,0 +1,17 @@
+/*
+* Required for Jest testing
+* - CRA uses it's own babel file hidden away in react-scripts
+*/
+{
+  "presets": ["@babel/preset-env", "react-app"],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ],
+  "env": {
+    "test": {
+      "plugins": [
+        "require-context-hook"
+      ]
+    }
+  }
+}
