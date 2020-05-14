@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Brewdog-Mobile-App-Demo/static/css/main.30a8ccbc.chunk.css",
+    "main.js": "/Brewdog-Mobile-App-Demo/static/js/main.7b51d275.chunk.js",
+    "main.js.map": "/Brewdog-Mobile-App-Demo/static/js/main.7b51d275.chunk.js.map",
+    "runtime-main.js": "/Brewdog-Mobile-App-Demo/static/js/runtime-main.89eb2d96.js",
+    "runtime-main.js.map": "/Brewdog-Mobile-App-Demo/static/js/runtime-main.89eb2d96.js.map",
+    "static/css/2.d1d58843.chunk.css": "/Brewdog-Mobile-App-Demo/static/css/2.d1d58843.chunk.css",
+    "static/js/2.8e271a88.chunk.js": "/Brewdog-Mobile-App-Demo/static/js/2.8e271a88.chunk.js",
+    "static/js/2.8e271a88.chunk.js.map": "/Brewdog-Mobile-App-Demo/static/js/2.8e271a88.chunk.js.map",
+    "index.html": "/Brewdog-Mobile-App-Demo/index.html",
+    "precache-manifest.224c0f1ca7c4b9570f0583ab36b33652.js": "/Brewdog-Mobile-App-Demo/precache-manifest.224c0f1ca7c4b9570f0583ab36b33652.js",
+    "service-worker.js": "/Brewdog-Mobile-App-Demo/service-worker.js",
+    "static/css/2.d1d58843.chunk.css.map": "/Brewdog-Mobile-App-Demo/static/css/2.d1d58843.chunk.css.map",
+    "static/css/main.30a8ccbc.chunk.css.map": "/Brewdog-Mobile-App-Demo/static/css/main.30a8ccbc.chunk.css.map",
+    "static/js/2.8e271a88.chunk.js.LICENSE.txt": "/Brewdog-Mobile-App-Demo/static/js/2.8e271a88.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Brewdog-Mobile-App-Demo/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89eb2d96.js",
+    "static/css/2.d1d58843.chunk.css",
+    "static/js/2.8e271a88.chunk.js",
+    "static/css/main.30a8ccbc.chunk.css",
+    "static/js/main.7b51d275.chunk.js"
+  ]
+}
