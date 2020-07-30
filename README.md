@@ -1,4 +1,6 @@
-# Yoello - Brewdog Mobile Application
+# Brewdog Mobile Application
+
+Demo: [Github Pages](https://pixelventures.github.io/Brewdog-Mobile-App-Demo/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
